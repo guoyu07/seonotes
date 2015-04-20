@@ -1,0 +1,2 @@
+# seonotes
+SEO Notes
